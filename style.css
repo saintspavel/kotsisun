@@ -1,0 +1,24 @@
+body  {
+    background-image: url(/Users/saintspavel/верстка/fon.jpeg);
+}
+
+h1 {
+    margin: 30px;
+}
+
+
+.advantages-item {
+margin-bottom: 15px;
+padding-left: 20px;
+border-left: 20px solid #e2e2e2;
+color: hsl(243, 76%, 21%);
+box-shadow: 3px 3px 7px #000000
+}
+
+.sith {
+    color: red;
+}
+
+.jedi {
+    color: green;
+}
